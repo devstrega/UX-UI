@@ -1,0 +1,131 @@
+Descomplicando UX/UI - Recursos de UX & UI Design na Internet
+
+Index
+Protótipo Online
+Teste de Usuário & Feedback
+Padrões de UI Design
+Cores & Gradientes
+Usuário & Fotos de Perfil
+Fotos para Uso Comercial
+Icones
+Fones
+Inspiração para Design
+Ferramentas Úteis
+Formulários e Emails
+
+Recursos & Guias
+1. Protótipo Online
+InVision: http://www.invisionapp.com/
+Marvel: https://marvelapp.com/
+Pixate: http://www.pixate.com/
+Webflow ($16/month): https://webflow.com/
+UXPin ($15/month): http://uxpin.com
+Flinto ($20/month): https://www.flinto.com/
+Proto.io: http://proto.io
+Codiqa ($16/month): https://codiqa.com/
+
+2. Teste de Usuários & Feedback
+FiveSecondTest: http://fivesecondtest.com/
+Verify: http://verifyapp.com/
+Typeform (Ótimas Pesquisas): http://www.typeform.com/
+User Testing: http://www.usertesting.com/
+Feedback Army: http://www.feedbackarmy.com/
+Usabilla: https://usabilla.com/
+CrazyEgg - Vizualize onde seus visitantes Clicam: http://www.crazyegg.com/
+Try My UI: http://www.trymyui.com/
+Criticue: http://www.criticue.com/
+Feedbackify (free trial, then $19/month): http://www.feedbackify.com/
+Ghostrec: http://www.ghostrec.com/
+Concept Feedback: http://www.conceptfeedback.com/
+UserBob: https://userbob.com
+
+3. Padrões de UI Design
+Pttrns - Mobile User Interface Patterns: http://www.pttrns.com/
+Pttrns Beta: http://beta.pttrns.com/
+User Flow Patterns: http://userflowpatterns.com/
+User Onboarding: http://useronboarding.com
+Fluxos de usuários animados de aplicativos iOS: http://uxarchive.com/animated
+
+4. Cores & Gradientes
+Adobe Color CC: https://color.adobe.com/create/color-wheel/
+Color Scheme Designer: http://paletton.com/
+Color Lovers: http://colorlovers.com
+uiGradients: http://uigraduents.com
+Subtle Patterns: http://subtlepatterns.com/
+Gerador de paleta de cores do Material Design: http://www.materialpalette.com/
+Blend - Gere Gradientes CSS3: http://colinkeany.com/blend/
+
+5. Usuário & Fotos para Perfil
+UI Faces: http://uifaces.com/
+Impor.io: http://www.impor.io/
+Random User Generator: https://randomuser.me/
+Facebox (Coleção Paga, Livre de Direitos Autorais): http://facebox.io/
+Gerador Aleatório de Usuários: http://www.designskilz.com/random-users/
+
+6. Fotos para Uso Comercial
+Little Visuals: http://littlevisuals.co/
+Unsplash: http://unsplash.com/
+Death to the Stock Photo: http://join.deathtothestockphoto.com/
+New Old Stock: http://nos.twnsnd.co/
+Superfamous (Requer Atribuição): http://superfamous.com/
+Picjumbo: http://picjumbo.com/
+The Pattern Library: http://thepatternlibrary.com/
+Gratisography: http://www.gratisography.com/
+Getrefe: http://getrefe.tumblr.com/
+IM Free: (requires attribution) http://imcreator.com/free
+Jay Mantri: http://jaymantri.com/
+Arquivo de Domínio Público: http://publicdomainarchive.com/
+Magdeleine: http://magdeleine.co/
+Foodiesfeed: http://foodiesfeed.com
+Picography: http://picography.co/
+Raumrot: http://www.raumrot.com/10/
+ISO Republic: http://isorepublic.com/
+All The Free Stock: http://allthefreestock.com
+Pexels: http://www.pexels.com
+Stocksy: http://www.stocksy.com/
+
+7. Icones
+NounProject: http://thenounproject.com/
+Ícones do Material Design do Google: https://github.com/google/material-design-icons/releases/tag/1.0.0
+Flaticon (Incrível): http://flaticon.com/
+
+8. Fontes & Tipografia
+Dafont: http://dafont.com
+UseModify: http://usemodify.com/
+Typewolf (Inspiração de Fontes, Recomendações e Recursos): http://www.typewolf.com
+Calculadora de Tipografia de Proporção Áurea: http://www.pearsonified.com/typography/
+Pares de Fontes: http://fontsinuse.com/ http://www.typewolf.com/ http://www.typ.io/ http://blog.fontshop.com/category/great-pairs/ http://justmytype.co/ http://zurb.com/tavern/questions/what-are-your-top-5-go-to-fonts
+
+9. Inspiração para Design
+Niice: http://niice.co
+Codrops: http://tympanus.net/codrops/
+Unmatched Style: http://unmatchedstyle.com
+Product Hunt: http://www.producthunt.com/
+Flat UI Design Showcase: http://fltdsgn.com/
+http://thematboard.com/
+
+10. Ferramentas Úteis
+Dunnnk - Gerador de Mockups para Dispositivos: http://dunnnk.com/
+Pixelapse - Controle de Versão Visual para Designers: https://www.pixelapse.com/
+Tamanhos de Telas (Dimensões Populares das Telas dos Dispositivos): http://screensiz.es/phone
+Eu sou Responsivo?: http://ami.responsivedesign.is/
+uilang - Uma mínima, Linguagem de Programação UI-focada para Web Designers: http://uilang.com/
+Hologram - Construa e Mantenha Belas Guias de Estilo: http://trulia.github.io/hologram/
+
+11. Formulários e Emails
+http://mailthis.to/
+https://www.elformo.com/
+http://flipmail.co/
+https://getsimpleform.com/
+
+12. Recursos e Guias
+Kit de Design: http://www.designkit.org/
+Técnicas de Pesquisa de Usuário: http://designresearchtechniques.com/
+Repositório de Diretrizes para Design: http://findguidelin.es
+Usabilidade.gov: http://www.usability.gov/how-to-and-tools/index.html
+Folha de referência para facilitar a animação com snippets de CSS e JS: http://easings.net
+Diretrizes de Design de Materiais do Google: http://www.google.com/design/spec/material-design/introduction.html#
+Desmistificação das telas do iPhone 6: http://www.paintcodeapp.com/news/iphone-6-screens-demystified
+Os 7 pecados capitais da pesquisa do usuário: http://www.slideshare.net/dtravisphd/the-7-sins-of-user-research
+
+Traduzido de @teybannerman
